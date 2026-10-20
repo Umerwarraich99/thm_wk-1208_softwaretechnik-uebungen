@@ -13,4 +13,6 @@ Mit Git arbeite ich seit dieser Übung zum ersten Mal richtig.
 
 ## Das erwarte ich von der Veranstaltung
 
-…
+Ich möchte verstehen, wie Softwareprojekte strukturiert ablaufen,
+statt nur einzelne Programme zu schreiben. Konkret interessieren
+mich Anforderungen und Architektur — also was vor dem Code passiert.
