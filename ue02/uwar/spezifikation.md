@@ -1,6 +1,6 @@
 # Spezifikation Terminplaner — Gliederungsentwurf
 
-**Mitgearbeitet (GitHub-Benutzernamen):** Umerwarraich99
+**Mitgearbeitet (GitHub-Benutzernamen):** Umerwarraich99, Mazm96
 
 ---
 
